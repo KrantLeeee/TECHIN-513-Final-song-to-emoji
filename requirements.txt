@@ -1,0 +1,14 @@
+# All the required Libraries:
+python-dotenv
+openai
+pinecone-client
+certifi
+librosa 
+matplotlib 
+IPython
+accelerate
+torch
+transformers
+pandas 
+scikit-learn 
+numpy
